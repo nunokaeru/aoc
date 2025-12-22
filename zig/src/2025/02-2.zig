@@ -42,7 +42,7 @@ test "duplicated" {
         const values = [_]u64{
             11,
             22,
-            111,
+            1121,
             222,
             1111,
             1212,
